@@ -140,6 +140,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pruthviraj32/pruthviraj32/output/snake.svg" alt="Snake animation" />
 
 ###
